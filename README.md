@@ -1,5 +1,2 @@
 # Gender-Prediction-Based-on-Audio-Data
-The following is an attempt to build an support vector machine (SVM) model to predict the gender of the speaker based on audio data.
-After initial exploratory data analysis, SVM is chosen to be model that can be improved upon. 
-Once SVM is built, sensitivity and specificity analysis followed. 
-In addition to being a predictive model, I also wanted to explore the natural phenomenon that I am modeling after analyzing feature importance via SVM hyperplane coefficient.
+This project involves building a support vector machine (SVM) model to predict speaker gender based on audio data. Following exploratory data analysis, SVM was selected for its potential to be refined. After constructing the model, sensitivity and specificity analyses were performed. Beyond prediction, I aimed to understand the natural phenomenon by analyzing feature importance through SVM hyperplane coefficients.
